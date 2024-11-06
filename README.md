@@ -4,3 +4,5 @@ Created a program which takes in user input such as a participants name, age and
 Things I want to add in the future:
 1. An email confirmation system --> send a confirmation email with the swimmer's name and the class they registered for
 2. SMS? --> similar to email confirmation but with a phone number
+
+STUFF ABOVE IS IMPLEMENTED ! 
